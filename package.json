@@ -21,7 +21,7 @@
   "dependencies": {
     "@depay/js-verify-signature": "^3.1.8",
     "body-parser": "^1.20.2",
-    "express": "^4.18.2",
+    "express": "^4.19.2",
     "typescript": "^5.2.2"
   },
   "devDependencies": {
